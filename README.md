@@ -1,5 +1,3 @@
-# apparent-ddd
-
 ## 📦 apparent-ddd
 
 Aplicación CRUD básica con enfoque en **Domain-Driven Design (DDD)**.
