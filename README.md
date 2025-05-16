@@ -1,7 +1,4 @@
 # apparent-ddd
-Aquí tienes una **descripción profesional y clara para tu repositorio en GitHub**, basada en lo que estás implementando con DDD y ACL:
-
----
 
 ## 📦 apparent-ddd
 
